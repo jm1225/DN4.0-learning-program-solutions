@@ -1,0 +1,5 @@
+C:\Users\KIIT\OneDrive\Desktop\DN4.0\WEEK 2\Write Testable Code with Moq\TestProject1CustomerComm.Tests\TestProject1CustomerComm.Tests\obj\Debug\net9.0\TestProject1CustomerComm.Tests.csproj.AssemblyReference.cache
+C:\Users\KIIT\OneDrive\Desktop\DN4.0\WEEK 2\Write Testable Code with Moq\TestProject1CustomerComm.Tests\TestProject1CustomerComm.Tests\obj\Debug\net9.0\TestProject1CustomerComm.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\OneDrive\Desktop\DN4.0\WEEK 2\Write Testable Code with Moq\TestProject1CustomerComm.Tests\TestProject1CustomerComm.Tests\obj\Debug\net9.0\TestProject1CustomerComm.Tests.AssemblyInfoInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\DN4.0\WEEK 2\Write Testable Code with Moq\TestProject1CustomerComm.Tests\TestProject1CustomerComm.Tests\obj\Debug\net9.0\TestProject1CustomerComm.Tests.AssemblyInfo.cs
+C:\Users\KIIT\OneDrive\Desktop\DN4.0\WEEK 2\Write Testable Code with Moq\TestProject1CustomerComm.Tests\TestProject1CustomerComm.Tests\obj\Debug\net9.0\TestProject1CustomerComm.Tests.csproj.CoreCompileInputs.cache

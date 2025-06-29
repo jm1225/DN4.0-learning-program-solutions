@@ -1,0 +1,5 @@
+C:\Users\KIIT\OneDrive\Desktop\DN4.0\WEEK 2\NUnit-Hands\NUnit-Hands\obj\Debug\net9.0\NUnit-Hands.csproj.AssemblyReference.cache
+C:\Users\KIIT\OneDrive\Desktop\DN4.0\WEEK 2\NUnit-Hands\NUnit-Hands\obj\Debug\net9.0\NUnit-Hands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\OneDrive\Desktop\DN4.0\WEEK 2\NUnit-Hands\NUnit-Hands\obj\Debug\net9.0\NUnit-Hands.AssemblyInfoInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\DN4.0\WEEK 2\NUnit-Hands\NUnit-Hands\obj\Debug\net9.0\NUnit-Hands.AssemblyInfo.cs
+C:\Users\KIIT\OneDrive\Desktop\DN4.0\WEEK 2\NUnit-Hands\NUnit-Hands\obj\Debug\net9.0\NUnit-Hands.csproj.CoreCompileInputs.cache
